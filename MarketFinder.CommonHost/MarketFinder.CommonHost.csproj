@@ -104,6 +104,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\MarketFinder.AnalyticsService\MarketFinder.AnalyticsService.csproj">
+      <Project>{6d2bac0f-6460-4ec6-9105-58a006ecad86}</Project>
+      <Name>MarketFinder.AnalyticsService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MarketFinder.MakretManagementService\MarketFinder.MakretManagementService.csproj">
       <Project>{cefe6fb1-4575-43b8-a065-0f098186d5c7}</Project>
       <Name>MarketFinder.MakretManagementService</Name>
