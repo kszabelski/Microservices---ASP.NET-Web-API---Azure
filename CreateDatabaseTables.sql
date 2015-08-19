@@ -1,9 +1,3 @@
-USE [master]
-GO
-
-CREATE DATABASE [MarketManagementServiceDb]
-GO
-
 CREATE TABLE [dbo].[Markets](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Name] [nvarchar](max) NULL,
