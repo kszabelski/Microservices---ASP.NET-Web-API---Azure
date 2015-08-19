@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketFinder.CommonHost", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketFinder.AnalyticsService", "MarketFinder.AnalyticsService\MarketFinder.AnalyticsService.csproj", "{6D2BAC0F-6460-4EC6-9105-58A006ECAD86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketFinder.AnalyticsService.Host", "MarketFinder.AnalyticsService.Host\MarketFinder.AnalyticsService.Host.csproj", "{0C9F4375-60A8-4120-8887-8E5FAA39654D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketFinder.MakretManagementService.Host", "MarketFinder.MakretManagementService.Host\MarketFinder.MakretManagementService.Host.csproj", "{74FE43F7-58F6-4F80-93AF-698EFF794EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +38,14 @@ Global
 		{6D2BAC0F-6460-4EC6-9105-58A006ECAD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D2BAC0F-6460-4EC6-9105-58A006ECAD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D2BAC0F-6460-4EC6-9105-58A006ECAD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9F4375-60A8-4120-8887-8E5FAA39654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9F4375-60A8-4120-8887-8E5FAA39654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9F4375-60A8-4120-8887-8E5FAA39654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9F4375-60A8-4120-8887-8E5FAA39654D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FE43F7-58F6-4F80-93AF-698EFF794EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FE43F7-58F6-4F80-93AF-698EFF794EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FE43F7-58F6-4F80-93AF-698EFF794EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FE43F7-58F6-4F80-93AF-698EFF794EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
